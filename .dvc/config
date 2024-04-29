@@ -1,4 +1,4 @@
-[core]
-    remote = myremote
-['remote "myremote"']
+['remote "myrem"']
     url = gdrive://appDataFolder
+['remote "myremote"']
+    url = gdrive://11ncdA4zLcQXs4_SUcbYxj_T-DVQrsP5c
